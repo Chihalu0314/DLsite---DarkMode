@@ -1,0 +1,15 @@
+.work_edition {
+  display:none;
+}
+
+.headerNav-item .video {
+  display:none;
+}
+
+.headerNav-item .manga {
+  display:none;
+}
+
+.floorTab-item type-ebook a {
+  display:none;
+}
